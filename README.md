@@ -51,5 +51,5 @@ Este dashboard permite transformar datos operacionales en información útil par
 
 ## 📬 Contacto
 
-- Email: tuemail@gmail.com
-- LinkedIn: (tu link)
+- Email: andreaj.brinezv@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andrea-j-bri%C3%B1ez-villalobos/
