@@ -32,7 +32,7 @@ Este proyecto fue desarrollado en Power BI y permite:
 - Tablas con formato condicional
 
 ![Dashboard](ventas_smart_retail.png)
-![Dashboard](inventario_smart.retail.png)
+![Dashboard](inventario_smart_retail.png)
 
 ---
 
