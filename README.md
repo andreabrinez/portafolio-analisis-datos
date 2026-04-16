@@ -1,4 +1,3 @@
-# dashboard-powerbi-ventas-inventario
 # 📊 Dashboard Interactivo – Análisis de Ventas e Inventario
 
 ## 🎯 Objetivo del proyecto
